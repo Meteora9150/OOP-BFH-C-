@@ -1,8 +1,8 @@
+using System
 using controller.globalGenerator.GlobalGenerator;
 using controller.playerAttack.PlayerAttackImpl;
 using model.actions.Action;
 using model.actions.ActionImpl;
-using System
 
 namespace ConsoleApp1
 {

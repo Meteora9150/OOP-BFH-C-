@@ -1,6 +1,6 @@
+using System
 using controller.playerAttack.PlayerAttackImpl;
 using model.actions.Action;
-using System
 
 namespace ConsoleApp1
 {
